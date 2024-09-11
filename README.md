@@ -1,62 +1,71 @@
-# Hi, I'm Mohit Jindal
-### Co-founder at Mirage & Co. | Full Stack Developer. 
-- ✨ I'm on a never-ending quest to code the *next big thing*.
-- 📧 Feel free to reach out to me at [Mail](mailto:jindalm55@gmail.com)
-- ⽓ Let's team up and build scalable products.
+### **Hi, I'm Mohit Jindal**  
+  
+
+**Co-founder at Mirage & Co. | Full Stack Developer.**  
+  
+
+- ✨ I'm on a never-ending quest to code the next big thing.  
+  
+
+- ⽓ Let's team up and build scalable products.  
+  
+
+- 📧 Feel free to reach out to me at jindalm55@gmail.com  
+  
+
+<br/>  
 
 
+## Languages and Tools  
+<div align="center">  
+<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+</div>  
 
-<h3 align="center"> Let's Connect</h3>
-<div align="center" style="display: flex; justify-content: center;">
-  <a href="https://www.instagram.com/your_instagram_username" target="_blank">
-    <img src="https://github.com/GitMohit123/GitMohit123/blob/main/IgLogo.avif" alt="Instagram Icon" width="50" height="50" style="margin-right: 10px;">
-  </a>
-  <a href="https://www.linkedin.com/in/mohit-jindal-ab40a825b/" target="_blank">
-    <img src="https://github.com/GitMohit123/GitMohit123/blob/main/LinkedIn.png" alt="LinkedIn Icon" width="50" height="50" style="margin-right: 10px;">
-  </a>
-  <a href="https://github.com/GitMohit123" target="_blank">
-    <img src="https://github.com/GitMohit123/GitMohit123/blob/main/Github.webp" alt="GitHub Icon" width="20" height="20">
-  </a>
-</div>
+<br/>  
 
-- **Full-Stack Dev**: I craft frontend magic with **React**, juggle backends with **Node.js** and integrate the beast that is **AWS**.
-- **CTO Life**: Leading a team of kickass developers in building SaaS solutions and digital products.
-- **Cloud Whisperer**: AWS services like **S3, DynamoDB**, and **CloudFront**? Been there, deployed that. 
-- **Future-Proof Products**: Focusing on performance, microservices, and scaling solutions to meet tomorrow’s needs.
-- **Tech Enthusiast**: Always exploring Angular, Next.js, FastAPI, and **TypeScript** to create clean, scalable code.
 
----
+## Connect with me  
+<div align="center">
+<a href="https://github.com/GitMohit123" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/mohit-jindal-ab40a825b" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/mohit.jindal22" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
-### 📊 The Tech Stats That Matter:
+<br/>  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitjindal1&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitjindal1&layout=compact&theme=radical)
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitMohit123&hide_border=true&layout=compact" align="center" /></div>  
 
----
+<br/>  
 
-### 🛠️ My Weapon of Choice:
+**<div align="center">Let's connect and see where this goes.</div>**  
+  
 
-- **Frontend**: React.js, Tailwind CSS, Bootstrap
-- **Backend**: Node.js, Express, FastAPI
-- **Cloud & DevOps**: AWS (S3, DynamoDB, CloudFront), Firebase, Google Cloud
-- **Database**: DynamoDB, MongoDB
-- **Collaboration Tools**: Git, Docker, CI/CD pipelines
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=GitMohit123&&style=flat-square" align="center" />
+</div>  
 
----
+<br />
 
-### 🌍 Fun Fact:
-
-I’m currently shifting all my projects to **Angular** and mastering the art of **microservices**. When I’m not typing furiously on my keyboard, I’m brainstorming the **next million-dollar SaaS product** or daydreaming about the **next big innovation** in tech.
-
----
-
-### 📫 Connect with Me:
-
-- LinkedIn: [Connect with Mohit](https://www.linkedin.com/in/mohitjindal)
-- Twitter: [Follow Me for Tech Rants](https://twitter.com/mohitjindal)
-- GitHub: **[Follow my Journey](https://github.com/mohitjindal1)**
-
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=mohitjindal1&color=brightgreen)
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
