@@ -1,5 +1,5 @@
 # Hi, I'm Mohit Jindal
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: center; flex">
   <div style="flex: 1;">
     <h3>Co-founder at Mirage & Co. | Full Stack Developer.</h3>
     <ul>
@@ -9,7 +9,7 @@
     </ul>
   </div>
   <div>
-    <img src="https://your-image-url.com" alt="Your Image" width="150"/>
+    <img src="https://github.com/GitMohit123/GitMohit123/logo.png" alt="Your Image" width="150"/>
   </div>
 </div>
 
