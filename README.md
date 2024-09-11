@@ -7,9 +7,9 @@
 
 
 <h3 align="center"> Let's Connect</h3>
-<div style="display: flex; justify-content: center;">
+<div align="center" style="display: flex; justify-content: center;">
   <a href="https://www.instagram.com/your_instagram_username" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512x512/174773/174773.png" alt="Instagram Icon" width="20" height="20" style="margin-right: 10px;">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AInstagram_logo_2016.svg&psig=AOvVaw2a3PVOoLavrVt8VvvbOrCY&ust=1726108458925000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICT0aHtuYgDFQAAAAAdAAAAABAE" alt="Instagram Icon" width="20" height="20" style="margin-right: 10px;">
   </a>
   <a href="https://www.linkedin.com/in/mohit-jindal-ab40a825b/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512x512/174773/174774.png" alt="LinkedIn Icon" width="20" height="20" style="margin-right: 10px;">
