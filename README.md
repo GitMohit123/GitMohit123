@@ -1,11 +1,9 @@
 #  Hi, I'm Mohit Jindal! 
 
 ### Co-founder at Mirage & Co. | Full Stack Developer. 
-Besides my position, I'm a Full Stack Developer currently involved in building large-scale applications for Mirage & Co. and the field team of Google. 
-I'm on a never-ending quest to code the *next big thing*.
-
-I turn ideas into tech gold, manage teams, and occasionally sprinkle my magic on cloud architectures. 
-When I’m not coding, you’ll find me obsessing over product designs, scaling systems, or dreaming about the next tech disruption.
+🚀 I'm on a never-ending quest to code the *next big thing*.
+🚀 I turn ideas into tech gold, manage teams, and occasionally sprinkle my magic on cloud architectures. 
+🚀 When I’m not coding, you’ll find me obsessing over product designs, scaling systems, or dreaming about the next tech disruption.
 
 ---
 
