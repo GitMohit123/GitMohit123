@@ -1,7 +1,7 @@
-### **Hi, I'm Mohit Jindal**  
+## **Hi, I'm Mohit Jindal**  
   
 
-**Co-founder at Mirage & Co. | Full Stack Developer.**  
+### **Co-founder at Mirage & Co. | Full Stack Developer.**  
   
 
 - ✨ I'm on a never-ending quest to code the next big thing.  
