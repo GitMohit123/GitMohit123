@@ -1,10 +1,11 @@
-# 👾 Welcome to My Digital Lair! 👾
+# 👾 Hi, I'm Mohit Jindal! 👾
 
-Hey, I'm **Mohit Jindal** – CTO, full-stack dev, startup ninja, and professional caffeine consumer. 🚀 
+## A Full Stack Developer 
 
-I build SaaS products by day and break code by night. From AWS integrations to React, Node.js, and everything in between, I'm on a never-ending quest to code the *next big thing*.
+From AWS integrations to React, Node.js, and everything in between, I'm on a never-ending quest to code the *next big thing*.
 
-I turn ideas into tech gold, manage teams, and occasionally sprinkle my magic on cloud architectures. When I’m not coding, you’ll find me obsessing over product designs, scaling systems, or dreaming about the next tech disruption.
+I turn ideas into tech gold, manage teams, and occasionally sprinkle my magic on cloud architectures. 
+When I’m not coding, you’ll find me obsessing over product designs, scaling systems, or dreaming about the next tech disruption.
 
 ---
 
