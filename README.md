@@ -53,9 +53,8 @@
 <br/>  
 
 [![Mohit`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GitMohit123&theme=github-compact)](https://github.com/GitMohit123/github-readme-activity-graph) 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitMohit123&hide_border=true&layout=compact" alt="Top Languages on GitHub"></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitMohit123&hide_border=true&layout=compact" alt="Top Languages on GitHub"></div>
 
-<div align="right">![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitMohit123&show_icons=true&theme=transparent)</div>
 <br/>  
 
 **<div align="center">Let's connect and see where this goes.</div>**  
