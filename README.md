@@ -1,19 +1,18 @@
 # Hi, I'm Mohit Jindal
-<table>
-  <tr>
-    <td>
-      <h3>Co-founder at Mirage & Co. | Full Stack Developer.</h3>
-      <ul>
-        <li>✨ I'm on a never-ending quest to code the <em>next big thing</em>.</li>
-        <li>📧 Feel free to reach out to me at <a href="mailto:jindalm55@gmail.com">Mail</a></li>
-        <li>⽓ Let's team up and build scalable products.</li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://your-image-url.com" alt="Your Image" width="150"/>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 1;">
+    <h3>Co-founder at Mirage & Co. | Full Stack Developer.</h3>
+    <ul>
+      <li>✨ I'm on a never-ending quest to code the <em>next big thing</em>.</li>
+      <li>📧 Feel free to reach out to me at <a href="mailto:jindalm55@gmail.com">Mail</a></li>
+      <li>⽓ Let's team up and build scalable products.</li>
+    </ul>
+  </div>
+  <div>
+    <img src="https://your-image-url.com" alt="Your Image" width="150"/>
+  </div>
+</div>
+
 
 
 ---
