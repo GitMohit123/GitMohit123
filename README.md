@@ -1,6 +1,6 @@
 # 👾 Hi, I'm Mohit Jindal! 👾
 
-## A Full Stack Developer 
+### A Full Stack Developer 
 
 From AWS integrations to React, Node.js, and everything in between, I'm on a never-ending quest to code the *next big thing*.
 
