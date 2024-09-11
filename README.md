@@ -1,16 +1,8 @@
 # Hi, I'm Mohit Jindal
-<div style="display: flex; align-items: center;">
-  <p style="margin-right: 10px;">
-    <h3>Co-founder at Mirage & Co. | Full Stack Developer.</h3>
-    <ul>
-      <li>✨ I'm on a never-ending quest to code the <em>next big thing</em>.</li>
-      <li> Feel free to reach out to me at <a href="mailto:jindalm55@gmail.com">Mail</a></li>
-      <li>⽓ Let's team up and build scalable products.</li>
-    </ul>
-  </p>
-
-  <img src="https://github.com/GitMohit123/GitMohit123/blob/main/logo1.png?raw=true" alt="Your Image" width="150"/>
-</div>
+### Co-founder at Mirage & Co. | Full Stack Developer. 
+- ✨ I'm on a never-ending quest to code the *next big thing*.
+- 📧 Feel free to reach out to me at [Mail](mailto:jindalm55@gmail.com)
+- ⽓ Let's team up and build scalable products.
 
 
 
