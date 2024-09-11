@@ -6,9 +6,18 @@
 
 
 
----
-
-### 🚀 What I Do:
+<h3 align="center"> Let's Connect</h3>
+<div style="display: flex; justify-content: center;">
+  <a href="https://www.instagram.com/your_instagram_username" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512x512/174773/174773.png" alt="Instagram Icon" width="20" height="20" style="margin-right: 10px;">
+  </a>
+  <a href="https://www.linkedin.com/in/mohit-jindal-ab40a825b/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512x512/174773/174774.png" alt="LinkedIn Icon" width="20" height="20" style="margin-right: 10px;">
+  </a>
+  <a href="https://github.com/GitMohit123" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512x512/2523/2523147.png" alt="GitHub Icon" width="20" height="20">
+  </a>
+</div>
 
 - **Full-Stack Dev**: I craft frontend magic with **React**, juggle backends with **Node.js** and integrate the beast that is **AWS**.
 - **CTO Life**: Leading a team of kickass developers in building SaaS solutions and digital products.
