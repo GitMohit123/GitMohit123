@@ -9,7 +9,7 @@
     </ul>
   </div>
   <div>
-    <img src="https://github.com/GitMohit123/GitMohit123/logo" alt="Your Image" width="150"/>
+    <img src="https://github.com/GitMohit123/GitMohit123/blob/main/logo.png?raw=true" alt="Your Image" width="150"/>
   </div>
 </div>
 
