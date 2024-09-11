@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://your-image-url.com" alt="Your Image" width="200"/>
-</p>
-
-<h1 align="center"> Hi, I'm Mohit Jindal! </h1>
+# Hi, I'm Mohit Jindal
 ### Co-founder at Mirage & Co. | Full Stack Developer. 
 - ✨ I'm on a never-ending quest to code the *next big thing*.
 - 📧 Feel free to reach out to me at [Mail](mailto:jindalm55@gmail.com)
