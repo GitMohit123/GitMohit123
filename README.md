@@ -1,6 +1,6 @@
 #  Hi, I'm Mohit Jindal! 
 
-### I’m Mohit Jindal, Co-founder at Mirage & Co., which provides product innovation for B2B companies and startups. 
+### Co-founder at Mirage & Co., which provides product innovation for B2B companies and startups. 
 Besides my position, I'm a Full Stack Developer currently involved in building large-scale applications for Mirage & Co. and the field team of Google. 
 I'm on a never-ending quest to code the *next big thing*.
 
