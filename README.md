@@ -1,20 +1,18 @@
-## **Hi, I'm Mohit Jindal**  
-  
-
-### **Co-founder at Mirage & Co. | Full Stack Developer.**  
-  
-
-- ✨ I'm on a never-ending quest to code the next big thing.  
-  
-
-- ⽓ Let's team up and build scalable products.  
-  
-
+# **Hi, I'm Mohit Jindal**  
+I'm a Full Stack & Software Developer with expertise in building scalable web applications and open-source projects.
 - 📧 Feel free to reach out to me at jindalm55@gmail.com  
-  
 
-<br/>  
+### Areas of Expertise: 
+- Web Development (React, Node.js, Express)
+- Backend Development (Python, Django, REST APIs)
+- DevOps (Docker, Kubernetes, CI/CD Pipelines)
+- Data Structures & Algorithms (C++, DSA)
+- AI & Machine Learning (Python, TensorFlow)
 
+![GitHub followers](https://img.shields.io/github/followers/Shubham-Bishnoi?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/Shubham-Bishnoi?label=Stars&style=social)
+
+---
 
 ## Languages and Tools  
 <div align="center">  
