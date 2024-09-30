@@ -1,16 +1,15 @@
 # **Hi, I'm Mohit Jindal**  
-I'm a Full Stack & Software Developer with expertise in building scalable web applications and open-source projects.
-- 📧 Feel free to reach out to me at jindalm55@gmail.com  
+I'm a Full Stack & Software Developer with expertise in building scalable web applications and open-source projects. 📧 Feel free to reach out to me at jindalm55@gmail.com   
 
 ### Areas of Expertise: 
-- Web Development (React, Node.js, Express)
-- Backend Development (Python, Django, REST APIs)
-- DevOps (Docker, Kubernetes, CI/CD Pipelines)
-- Data Structures & Algorithms (C++, DSA)
-- AI & Machine Learning (Python, TensorFlow)
+- Web Development (MERN, AngularJs, NextJs, AWS, Azure, GCP)
+- Backend Development (Python, Django, MongoDb, PostgreSQL, S3, Flask)
+- DevOps (Docker, CI/CD Pipelines)
+- Data Structures & Algorithms (Java, DSA)
+- AI & Machine Learning (Python, TensorFlow, Keras, Pytorch, Ubuntu (22.04))
 
-![GitHub followers](https://img.shields.io/github/followers/Shubham-Bishnoi?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/Shubham-Bishnoi?label=Stars&style=social)
+![GitHub followers](https://img.shields.io/github/followers/GitMohit123?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/GitMohit123?label=Stars&style=social)
 
 ---
 
