@@ -1,5 +1,9 @@
-# **Hi, I'm Mohit Jindal**  
-I'm a Full Stack & Software Developer with expertise in building scalable web applications and open-source projects. 📧 Feel free to reach out to me at jindalm55@gmail.com   
+<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> I'm Mohit Jindal</h1>
+
+<h3 align="center">A Pre-final Year Computer Science Undergrad</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshiita07&label=Profile%20views&color=blueviolet&style=plastic" alt="akshiita07" /> </p>
+<!-- &base=1000 can add when reqd &abbreviated=true-->
 
 ### Areas of Expertise: 
 - Web Development (MERN, AngularJs, NextJs, AWS, Azure, GCP)
@@ -13,52 +17,43 @@ I'm a Full Stack & Software Developer with expertise in building scalable web ap
 
 ---
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-</div>  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> **Connect with me:**  
 
-<br/>  
+<p align="left">
+<a href="mailto:jindalm55@gmail.com"  target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Mohit" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohit-jindal-ab40a825b/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Mohit" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Mohit_jindal22/"  target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Mohit" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mohit.jindal22/"  target="_blank"><img align="center"  src="https://skillicons.dev/icons?i=instagram" alt="Mohit" height="30" width="40" /></a>
+
+</p>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
+[![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,sklearn,mysql,postgres,html,css,bootstrap,js,jquery,react,expressjs,nodejs,postman,npm,mongodb,pug,git,github,netlify,vscode,matlab,ps,autocad,aws,linux,androidstudio,arduino,stackoverflow&perline=13)](#)
+
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats:</h3>
 
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/GitMohit123" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/mohit-jindal-ab40a825b" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/mohit.jindal22" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GitMohit123&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&cache_seconds=100&locale=en&layout=compact" alt="Mohit" /></p>
 
-<br/>  
-
+<br>
+<br><br>
+<br><br>
+<br><br>
+<br>
 [![Mohit`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GitMohit123&theme=github-compact)](https://github.com/GitMohit123/github-readme-activity-graph) 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitMohit123&hide_border=true&layout=compact" alt="Top Languages on GitHub"></div>
 
-<br/>  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="25" height="25" /> **Leetcode Info:**  
 
-**<div align="center">Let's connect and see where this goes.</div>**  
   
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Mohit_jindal22?theme=dark&font=Nunito&ext=heatmap" />  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=GitMohit123&&style=flat-square" align="center" />
-</div>  
 
-<br />
+<!-- <p align="center"> <img src="https://raw.githubusercontent.com/arshiyaakishore/snake-for-readme/main/snakegame.svg" alt="Snake animation" /> </p>-->
+
+<!-- graph -->
+<!-- <p>&nbsp;<img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=akshiita07&theme=react-dark"  alt="akshiita07" /></p> -->
+
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=1000&section=footer"/>
+</p>
