@@ -39,7 +39,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="25" height="25" /> **Leetcode Info:**  
 
   
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Mohit_jindal22?theme=dark&font=Nunito&ext=heatmap" />  
+  <img  align=center flex-grow=1 src="https://leetcard.jacoblin.cool/Mohit_jindal22?theme=dark&font=Nunito&ext=heatmap" />  
 
 
 <!-- <p align="center"> <img src="https://raw.githubusercontent.com/arshiyaakishore/snake-for-readme/main/snakegame.svg" alt="Snake animation" /> </p>-->
