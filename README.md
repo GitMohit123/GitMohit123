@@ -28,7 +28,7 @@
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=python,java,sklearn,mysql,postgres,html,css,bootstrap,js,jquery,react,expressjs,nodejs,postman,npm,mongodb,git,github,netlify,vscode,matlab,ps,aws,linux,androidstudio,arduino,stackoverflow,docker,redux,angular,tailwindcss&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=python,java,sklearn,mysql,postgres,nextjs,html,css,bootstrap,js,jquery,react,expressjs,nodejs,postman,npm,mongodb,git,github,netlify,vscode,matlab,ps,aws,linux,androidstudio,arduino,stackoverflow,docker,redux,angular,tailwindcss&perline=13)](#)
 
 
 [![Mohit`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GitMohit123&theme=github-compact)](https://github.com/GitMohit123/github-readme-activity-graph) 
