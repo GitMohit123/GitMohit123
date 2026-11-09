@@ -2,13 +2,15 @@
 
 <h3 align="center">A Final Year Undergrad at DTU</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshiita07&label=Profile%20views&color=blueviolet&style=plastic" alt="akshiita07" /> </p>
 <!-- &base=1000 can add when reqd &abbreviated=true-->
 
 ### Areas of Expertise: 
-- Web Development (MERN, AngularJs, NextJs, AWS, Azure, GCP)
-- Backend Development (Python, Django, MongoDb, PostgreSQL, S3, Flask)
-- DevOps (Docker, CI/CD Pipelines)
+- Web Development (Next.js, MERN, Angular, TypeScript, AWS, Azure, GCP)
+- Backend Development (NestJS, Python (FastAPI, Flask, Django), Socket.IO, BullMQ / SQS queue workers, S3)
+- Databases: PostgreSQL (Prisma, TypeORM), DynamoDB, Redis, MySQL, Firebase, Typesense, MongoDB
+- Cloud & DevOps: Azure (Container Apps, Service Bus, Key Vault, FD), Bicep IaC, AWS (DynamoDB, S3, SQS, SES, EC2), GCP Vertex AI, Docker, Turborepo monorepos, GitHub Actions
+- AI & LLM Engineering: Gemini / Vertex AI, OpenAI, Whisper, OCR (PaddleOCR, Tesseract), AI proctoring (LiveKit, MediaPipe)
+- Testing & Observability: Playwright e2e, Vitest, Jest, k6 load testing, OpenTelemetry, Prometheus, Sentry
 - Data Structures & Algorithms (Java, DSA)
 - AI & Machine Learning (Python, TensorFlow, Keras, Pytorch, Ubuntu (22.04))
 
@@ -21,7 +23,7 @@
 
 <p align="left">
 <a href="mailto:jindalm55@gmail.com"  target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Mohit" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mohit-jindal-ab40a825b/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Mohit" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohit-jindalx/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Mohit" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Mohit_jindal22/"  target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Mohit" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mohit.jindal22/"  target="_blank"><img align="center"  src="https://skillicons.dev/icons?i=instagram" alt="Mohit" height="30" width="40" /></a>
 
