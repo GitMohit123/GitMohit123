@@ -19,8 +19,6 @@ I'm a Software Engineer and 2026 Information Technology graduate from Delhi Tech
 - Cloud & DevOps: Azure, Bicep IaC, AWS, Google Cloud Platform, Docker, Turborepo monorepos, GitHub Actions
 - AI & LLM Engineering: Vertex AI, OpenAI, Whisper, OCR (PaddleOCR, Tesseract), AI proctoring (LiveKit, MediaPipe)
 - Testing & Observability: Playwright e2e, Vitest, Jest, k6 load testing, OpenTelemetry, Prometheus, Sentry
-- Data Structures & Algorithms (Java, DSA)
-- AI & Machine Learning (Python, TensorFlow, Keras, PyTorch, Ubuntu (22.04))
 
 ![GitHub followers](https://img.shields.io/github/followers/GitMohit123?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/GitMohit123?label=Stars&style=social)
