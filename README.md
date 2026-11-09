@@ -11,6 +11,15 @@ I'm a Software Engineer and 2026 Information Technology graduate from Delhi Tech
 - 🏆 Secured 2nd place globally with $60000 in the DARPA Triage Challenge 2023 held in Georgia, USA.
 - Build several products under TrainX (AI-powered EdTech ecosystem) covering UMS, LMS, AI Fluency & Proctify (AI Proctored Assesment Platform) | Scaled to ₹2 Cr MRR
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> **Connect with me:**  
+
+<p align="left">
+<a href="mailto:jindalm55@gmail.com"  target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Mohit" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohit-jindalx/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Mohit" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Mohit_jindal22/"  target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Mohit" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mohit.jindal22/"  target="_blank"><img align="center"  src="https://skillicons.dev/icons?i=instagram" alt="Mohit" height="30" width="40" /></a>
+
+</p>
 
 ### Areas of Expertise: 
 - Web Development (Next.js, MERN, Angular, TypeScript, AWS, Azure, GCP)
@@ -24,16 +33,6 @@ I'm a Software Engineer and 2026 Information Technology graduate from Delhi Tech
 ![GitHub stars](https://img.shields.io/github/stars/GitMohit123?label=Stars&style=social)
 
 ---
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> **Connect with me:**  
-
-<p align="left">
-<a href="mailto:jindalm55@gmail.com"  target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Mohit" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mohit-jindalx/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Mohit" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Mohit_jindal22/"  target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Mohit" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mohit.jindal22/"  target="_blank"><img align="center"  src="https://skillicons.dev/icons?i=instagram" alt="Mohit" height="30" width="40" /></a>
-
-</p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
 [![My Skills](https://skillicons.dev/icons?i=python,java,sklearn,mysql,postgres,nextjs,html,css,bootstrap,js,jquery,react,expressjs,nodejs,postman,npm,mongodb,git,github,netlify,vscode,matlab,ps,aws,linux,androidstudio,arduino,stackoverflow,docker,redux,angular,tailwindcss&perline=13)](#)
