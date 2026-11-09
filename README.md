@@ -3,6 +3,7 @@
 <h3 align="center">Software Engineer | Full-Stack & AI Engineering | Product Development</h3>
 
 <!-- &base=1000 can add when reqd &abbreviated=true-->
+I'm a Software Engineer and 2026 Information Technology graduate from Delhi Technological University (DTU), India. I enjoy engineering scalable systems, building AI-powered products, and solving complex problems through technology.
 
 ### Areas of Expertise: 
 - Web Development (Next.js, MERN, Angular, TypeScript, AWS, Azure, GCP)
