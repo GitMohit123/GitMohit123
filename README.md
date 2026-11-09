@@ -40,7 +40,7 @@ I'm a Software Engineer and 2026 Information Technology graduate from Delhi Tech
 [![Programming Languages](https://skillicons.dev/icons?i=typescript,javascript,python,java,sql,bash&perline=13)](https://skillicons.dev)
 
 ### 🎨 Web Development
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind,bootstrap,sass,redux,vite,threejs,nodejs,nestjs,express,fastapi,flask,django&perline=20)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind,bootstrap,sass,redux,vite,threejs,nodejs,nestjs,express,fastapi,flask,django&perline=15)](https://skillicons.dev)
 
 ### 🗄️ Databases & Data Storage
 [![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,sqlite&perline=13)](https://skillicons.dev)
