@@ -3,7 +3,14 @@
 <h3 align="center">Software Engineer | Full-Stack & AI Engineering | Product Development</h3>
 
 <!-- &base=1000 can add when reqd &abbreviated=true-->
+### A little about my journey
 I'm a Software Engineer and 2026 Information Technology graduate from Delhi Technological University (DTU), India. I enjoy engineering scalable systems, building AI-powered products, and solving complex problems through technology.
+
+- Built HireZapp (AI Co-Pilot for Talent Acquisition) | Backed by Nvidia & AWS. Scaled it from scratch to ₹10 lakh MRR.
+- Developed 20+ Google Apps and internal tools for the Field & Sales Team at Smollan (xWF-Google).
+- 🏆 Secured 2nd place globally with $60000 in the DARPA Triage Challenge 2023 held in Georgia, USA.
+- Build several products under TrainX (AI-powered EdTech ecosystem) covering UMS, LMS, AI Fluency & Proctify (AI Proctored Assesment Platform) | Scaled to ₹2 Cr MRR
+
 
 ### Areas of Expertise: 
 - Web Development (Next.js, MERN, Angular, TypeScript, AWS, Azure, GCP)
