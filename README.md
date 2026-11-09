@@ -8,11 +8,11 @@
 - Web Development (Next.js, MERN, Angular, TypeScript, AWS, Azure, GCP)
 - Backend Development (NestJS, Python (FastAPI, Flask, Django), Socket.IO, BullMQ / SQS queue workers, S3)
 - Databases: PostgreSQL (Prisma, TypeORM), DynamoDB, Redis, MySQL, Firebase, Typesense, MongoDB
-- Cloud & DevOps: Azure (Container Apps, Service Bus, Key Vault, FD), Bicep IaC, AWS (DynamoDB, S3, SQS, SES, EC2), GCP Vertex AI, Docker, Turborepo monorepos, GitHub Actions
-- AI & LLM Engineering: Gemini / Vertex AI, OpenAI, Whisper, OCR (PaddleOCR, Tesseract), AI proctoring (LiveKit, MediaPipe)
+- Cloud & DevOps: Azure, Bicep IaC, AWS, Google Cloud Platform, Docker, Turborepo monorepos, GitHub Actions
+- AI & LLM Engineering: Vertex AI, OpenAI, Whisper, OCR (PaddleOCR, Tesseract), AI proctoring (LiveKit, MediaPipe)
 - Testing & Observability: Playwright e2e, Vitest, Jest, k6 load testing, OpenTelemetry, Prometheus, Sentry
 - Data Structures & Algorithms (Java, DSA)
-- AI & Machine Learning (Python, TensorFlow, Keras, Pytorch, Ubuntu (22.04))
+- AI & Machine Learning (Python, TensorFlow, Keras, PyTorch, Ubuntu (22.04))
 
 ![GitHub followers](https://img.shields.io/github/followers/GitMohit123?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/GitMohit123?label=Stars&style=social)
