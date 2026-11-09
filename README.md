@@ -4,7 +4,6 @@
 
 <!-- &base=1000 can add when reqd &abbreviated=true-->
 ### A little about my journey
-I'm a Software Engineer and 2026 Information Technology graduate from Delhi Technological University (DTU), India. I enjoy engineering scalable systems, building AI-powered products, and solving complex problems through technology.
 
 - Built HireZapp (AI Co-Pilot for Talent Acquisition) | Backed by Nvidia & AWS. Scaled it from scratch to ₹10 lakh MRR.
 - Developed 20+ Google Apps and internal tools for the Field & Sales Team at Smollan (xWF-Google).
